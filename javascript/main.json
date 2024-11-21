@@ -1,0 +1,112 @@
+{
+    "sections" : [
+        {
+          "home" : {
+            "logoName" : "nyoton",
+            "firstName": "nyoton", 
+            "lastName" : "diba",
+            "skillsList": ["front-end" , "software" , "web designe"]
+          }
+        },
+        {
+          "about" : {
+            "text": "As a front-end software engineer, I specialize in building intuitive, visually appealing web applications. With a focus on clean design and efficient functionality, I aim to create seamless digital experiences that engage users and deliver results."
+          }
+        },
+        {
+          "services" : {
+            "services-title-text1": [
+             "Front-End Development Expertise",
+             "Our skilled team brings a wealth of experience in crafting responsive, high-performance front-end applications. With deep knowledge in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js, we ensure that your web applications are not only visually stunning but also highly functional."
+            ],
+  
+            "services-title-text2": [
+            "UI/UX Design & Prototyping" ,
+            "By focusing on user-centered design, we create intuitive and aesthetically pleasing interfaces. Our design process involves creating wireframes and interactive prototypes to visualize the final product, ensuring a seamless experience for both users and developers"], 
+  
+            "services-title-text3": [
+            "Performance Optimization and Testing" ,
+            "We prioritize website speed and efficiency through performance optimization techniques, ensuring that your website loads fast and functions smoothly. Additionally, we use automated testing tools to catch potential issues early and maintain high-quality code"]
+          }
+        },
+
+        {
+          "portfolio" : {
+
+            "project-1" : {
+              "name" : "single page portfolio",
+              "link" : "https://nyoton-code.github.io/portfolio/"
+            },
+
+            "project-2" : {
+              "name" : "multiple pages portfolio",
+              "link" : "https://nyoton-code.github.io/template-four/index.html"
+            },
+            
+            "project-3" : {
+              "name" : "personal website",
+              "link" : "https://nyoton-code.github.io/template-three/"
+            }
+          }
+        },
+
+        {
+          "skills" : {
+            "skill-1": ["Html/css" , 90], 
+            "skill-2": ["problem solving" , 80], 
+            "skill-3": ["javascript" , 85 ], 
+            "skill-4": ["sass/tailwind" , 70 ], 
+            "skill-5": ["react.js" , 60 ], 
+            "skill-6": ["git/github" , 80 ]
+                  }
+        },
+        {
+          "testimonail" : {
+
+            "custumer-1" : {
+                "company name" :"B1G1",
+                "text" : "creative, innovative and strategic. we have great achievements made together and looking  more",
+                "custumer name" : "doctor mike",
+                "job" : "head of engineering" 
+            },
+
+            "custumer-2" : {
+                "company name" :"loom",
+                "text" : "incredible group of people  and talented professianals. focused on the development of flexivble ideas",
+                "custumer name" : "joel bell",
+                "job" : "software engineer "
+            },
+
+            "custumer-3" : {
+                "company name" :"loom",
+                "text" : "a truly love his work and caring about all sides of the project.just incredible work",
+                "custumer name" : "chris jr",
+                "job" : "company's ceo" 
+            }
+           
+          }
+        },
+        {
+          "stats" : {
+              "custumer" : 235,
+              "projects" : 506 ,
+              "experience" : 12
+          }
+        },
+        {
+          "contact" : {
+            "information" : {
+            "email": "info@getintouch.we", 
+            "phoneNumber" : "+24 56 89 146",
+            "place" : "14 Greenroad St.",
+            "time": "09:00 - 18:00"
+            },
+            "social media" : {
+            "facebook" : "www.facebook.com",
+            "instagram" : "www.intagram.com",
+            "X" : "www.x.com"
+            }
+          }
+        }
+    ]
+  }

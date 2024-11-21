@@ -2,7 +2,7 @@
 
 let data;
 async function fetchData() {
-    const resp = await fetch("/portfolio two v2/javascript/main.json");
+    const resp = await fetch("./javascript/main.json");
     data = await resp.json();
 }
 
